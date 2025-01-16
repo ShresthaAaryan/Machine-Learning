@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+"*.csv" 
+".ipynb_checkpoints/" 
+=======
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints
+**/.ipynb_checkpoints/
+*.csv
+.ipynb_checkpoints/
