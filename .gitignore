@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-"*.csv" 
-".ipynb_checkpoints/" 
-=======
 __pycache__/
 *.pyc
 .env
